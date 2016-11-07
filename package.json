@@ -21,15 +21,15 @@
   "author": "Joe Wilm <jdwilm@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "handlebars": "^2.0.0",
-    "glob": "^3.2.9"
+    "handlebars": "^4.0.5",
+    "glob": "^7.1.1"
   },
   "devDependencies": {
-    "mocha": "^1.18.2",
-    "koa": "^0.5.5",
-    "supertest": "^0.11.0",
-    "koa-router": "^3.1.3",
-    "co": "^3.0.5"
+    "mocha": "^3.1.2",
+    "koa": "^1.2.4",
+    "supertest": "^2.0.1",
+    "koa-router": "^5.4.0",
+    "co": "^4.6.0"
   },
   "engines": {
     "node": ">= 0.11.9"
